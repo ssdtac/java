@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 public class Solver {
 
     static final int ROWS = 9;
