@@ -1,4 +1,4 @@
 # Sudoku Solver
-A solver for any sudoku board, working on making it visually in a GUI.
-\n I know this has been done before, I just wanted some sort of practice myself
-All you need to run this is java 11 and some way to compile the code. No external libraries are being used as of now.
+<p>A solver for any sudoku board, working on making it visually in a GUI.</p>
+<p>I know this has been done before, I just wanted some sort of practice myself</p>
+<p>All you need to run this is java 11 and some way to compile the code. As of now, no external libraries are used</p>
